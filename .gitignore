@@ -4,3 +4,5 @@
 /book.mobi
 /book.epub
 .DS_Store
+.idea
+*.iml
