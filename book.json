@@ -25,20 +25,6 @@
                 ".gitbook-link"
             ]
         },
-        "autocover": {
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#FFF"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#09F"
-            }
-        },
         "hints": {
             "info": "fa fa-info-circle",
             "tip": "fa fa-mortar-board",
