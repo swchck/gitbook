@@ -16,3 +16,8 @@
 * Patterns
 * Concepts
   * [OOP](content/concepts/OOP.MD)
+  * [DRY](content/concepts/DRY.MD)
+  * [GRASP](content/concepts/GRASP.MD)
+  * [KISS](content/concepts/KISS.MD)
+  * [TMTOWTDI](content/concepts/TMTOWTDI.MD)
+  * [YAGNI](content/concepts/YAGNI.MD)
